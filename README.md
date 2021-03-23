@@ -100,4 +100,4 @@ public class Hello {
 클래스, 설계도 이름은 무조건 대문자로 시작
 main작성 후 ctrl+space 선언문 
 변수는 쌍 따옴표 사용하지 않기 왜냐하면 고유한 것이기 때문에 
-src는 소스파일(개발자가 작성)—->bin(class파일 가상 머신용 설계도, bytecode)로 변경할때 jdk/bin/javac.exe가 변경해줌
+src(소스파일,개발자가 작성)—->bin(class파일 가상 머신용 설계도, bytecode)로 변경할때 jdk/bin/javac.exe가 변경해줌
